@@ -1,0 +1,29 @@
+body {
+    background-color: gold;
+    text-align: center;
+    font-size: 40px;
+}
+
+.titulo {
+    color: blue;
+}
+
+.para {
+    color: darkviolet;
+
+}
+
+.parmito {
+    border-radius: 15px;
+}
+
+.btn {
+    cursor: pointer;
+    border-radius: 15px;
+}
+
+.part input,
+.part button {
+    font-size: 50px;
+    color: rgb(6, 98, 168);
+}
